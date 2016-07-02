@@ -1,0 +1,39 @@
+.hb{
+	-fx-alignment: center;
+}
+
+.pane{
+	-fx-font-size: 150%;
+	-fx-alignment: center;
+	
+}
+
+.label2{
+	-fx-font-size: 400%;
+	-fx-alignment: center;
+	-fx-text-fill: #0080c0;	
+	-fx-font-weight: bold;
+	-fx-padding: 20px 20px 20px 20px;
+}
+
+.label3{
+	-fx-text-fill: #000000;	
+	-fx-padding: 5px 5px 5px 5px;
+}
+
+.button{
+	-fx-padding: 5px 5px 5px 5px;
+}
+
+.label4{
+	-fx-font-size: 200%;
+	-fx-text-fill: #0000ff;
+	-fx-font-weight: bold;
+	-fx-padding: 5px 5px 5px 5px;
+}
+
+.label5{
+	-fx-font-size: 130%;
+	-fx-text-fill: #000000;
+	-fx-padding: 5px 5px 5px 5px;
+}

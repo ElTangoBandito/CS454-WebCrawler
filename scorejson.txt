@@ -1,0 +1,136 @@
+{
+  "tmax": 4.1371733992010835,
+  "link": {
+    "http://www.pandora.com/account/upgrade": {
+      "score": "0.03085280725371228",
+      "document": "dbd9bdef-c12d-4734-931d-2291f029df30.html",
+      "url": "http://www.pandora.com/account/upgrade"
+    },
+    "https://help.pandora.com/customer/portal/articles/1990571": {
+      "score": "0.007194394277993101",
+      "document": "4b09e78f-bb50-4a2e-b0da-1214366b323f.html",
+      "url": "https://help.pandora.com/customer/portal/articles/1990571"
+    },
+    "http://help.pandora.com/customer/portal/articles/24663-profile-privacy": {
+      "score": "0.26321640855468337",
+      "document": "4b811fd2-900d-49f9-9794-e63d134879f9.html",
+      "url": "http://help.pandora.com/customer/portal/articles/24663-profile-privacy"
+    },
+    "http://investor.pandora.com/phoenix.zhtml?c\u003d227956\u0026p\u003dirol-irhome": {
+      "score": "0.12557701130854748",
+      "document": "55e111da-186a-455d-8ccb-af813612b77b.html",
+      "url": "http://investor.pandora.com/phoenix.zhtml?c\u003d227956\u0026p\u003dirol-irhome"
+    },
+    "http://www.pandora.com/everywhere/for-your-business": {
+      "score": "0.21797317126216154",
+      "document": "49eacc94-330f-4b77-9800-e4fe2ebce557.html",
+      "url": "http://www.pandora.com/everywhere/for-your-business"
+    },
+    "https://help.pandora.com/customer/en/portal/articles/1468387-change-your-account-settings": {
+      "score": "0.03085280725371228",
+      "document": "d6572a8c-e42f-4ee8-90fa-82d8853ac87f.html",
+      "url": "https://help.pandora.com/customer/en/portal/articles/1468387-change-your-account-settings"
+    },
+    "https://help.pandora.com/customer/portal/articles/1468736": {
+      "score": "0.007194394277993101",
+      "document": "a333ae95-0f0f-46d5-881c-387d6dd347a5.html",
+      "url": "https://help.pandora.com/customer/portal/articles/1468736"
+    },
+    "http://help.pandora.com/customer/portal/articles/162149-why-ads-": {
+      "score": "0.12557701130854748",
+      "document": "26909759-7ea0-4ff6-b6d9-bb84815a07f5.html",
+      "url": "http://help.pandora.com/customer/portal/articles/162149-why-ads-"
+    },
+    "http://www.pandora.com/everywhere/home": {
+      "score": "0.007194394277993101",
+      "document": "413b85ef-95df-4cf6-8dc5-9f78d32e5a52.html",
+      "url": "http://www.pandora.com/everywhere/home"
+    },
+    "http://blog.pandora.com/": {
+      "score": "0.13791813421003238",
+      "document": "7f9e1b1f-f0c6-40a4-87f2-fbbf1b3194ad.html",
+      "url": "http://blog.pandora.com/"
+    },
+    "https://help.pandora.com/customer/portal/emails/new": {
+      "score": "0.7225331928349202",
+      "document": "ad2a2650-0fca-484f-9067-4c144c950cf8.html",
+      "url": "https://help.pandora.com/customer/portal/emails/new"
+    },
+    "http://www.pandora.com/everywhere/in-the-car": {
+      "score": "0.34256659192661276",
+      "document": "ae46df75-5344-4569-a025-fc76a80d6017.html",
+      "url": "http://www.pandora.com/everywhere/in-the-car"
+    },
+    "http://help.pandora.com/": {
+      "score": "1.0",
+      "document": "9306e507-5348-466f-a1d1-e9fa9f5c7ea6.html",
+      "url": "http://help.pandora.com/"
+    },
+    "http://help.pandora.com/customer/portal/articles/1468760-information-about-privacy-on-pandora#4": {
+      "score": "0.26321640855468337",
+      "document": "eab4530c-07dd-4fba-9602-1024fe7cfcd9.html",
+      "url": "http://help.pandora.com/customer/portal/articles/1468760-information-about-privacy-on-pandora#4"
+    },
+    "https://help.pandora.com/": {
+      "score": "0.39702916246982256",
+      "document": "cb3482a3-4b72-4794-9c2f-904b2dc1839c.html",
+      "url": "https://help.pandora.com/"
+    },
+    "http://help.pandora.com/customer/portal/articles/84834-pandora-one": {
+      "score": "0.03085280725371228",
+      "document": "f7202747-7bde-4fc6-90c9-3e6d571e582e.html",
+      "url": "http://help.pandora.com/customer/portal/articles/84834-pandora-one"
+    },
+    "http://www.pandora.com/everywhere/mobile": {
+      "score": "0.007194394277993101",
+      "document": "b66963c5-25cb-4b95-8fdc-73c6659ef32e.html",
+      "url": "http://www.pandora.com/everywhere/mobile"
+    },
+    "http://help.pandora.com/customer/portal/topics/7282-on-the-web/articles": {
+      "score": "0.12557701130854748",
+      "document": "a355685b-536e-43b8-b429-3ef6f1fa069f.html",
+      "url": "http://help.pandora.com/customer/portal/topics/7282-on-the-web/articles"
+    },
+    "http://www.pandora.com/everywhere/on-the-go": {
+      "score": "0.26893414827907025",
+      "document": "06610e81-67c4-4cd8-8bae-fc84440e8f87.html",
+      "url": "http://www.pandora.com/everywhere/on-the-go"
+    },
+    "http://help.pandora.com/customer/portal/articles/24639-change-account-information": {
+      "score": "0.26321640855468337",
+      "document": "75e1a496-53d7-440b-a765-559cc5b9f081.html",
+      "url": "http://help.pandora.com/customer/portal/articles/24639-change-account-information"
+    },
+    "http://help.pandora.com/customer/portal/emails/new": {
+      "score": "0.26321640855468337",
+      "document": "629c6200-373c-43f7-ae5f-bfe3103ff08d.html",
+      "url": "http://help.pandora.com/customer/portal/emails/new"
+    },
+    "http://www.pandora.com/everywhere/": {
+      "score": "0.3616135759416231",
+      "document": "2d94ed07-e433-460a-b0e2-ec94d82917b7.html",
+      "url": "http://www.pandora.com/everywhere/"
+    },
+    "http://www.pandora.com/one": {
+      "score": "0.007194394277993101",
+      "document": "a04938b5-33b2-49a4-b62d-6acffdf871a2.html",
+      "url": "http://www.pandora.com/one"
+    },
+    "http://www.pandora.com": {
+      "score": "0.663597625839956",
+      "document": "cd15c894-4e57-4d25-8a0a-3f090ee911f2.html",
+      "url": "http://www.pandora.com"
+    },
+    "https://help.pandora.com/customer/en/portal/articles/1468760-information-about-privacy-on-pandora": {
+      "score": "0.03085280725371228",
+      "document": "e7ec7754-0cbd-4c91-824e-c7e18c0c3efe.html",
+      "url": "https://help.pandora.com/customer/en/portal/articles/1468760-information-about-privacy-on-pandora"
+    },
+    "http://www.pandora.com/privacy/": {
+      "score": "0.9804618452113245",
+      "document": "2676021c-f46e-445c-8d1f-089dd0d81ad5.html",
+      "url": "http://www.pandora.com/privacy/"
+    }
+  }
+}
+
